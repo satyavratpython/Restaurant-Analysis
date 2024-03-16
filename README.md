@@ -3,16 +3,17 @@ As a Data Analyst Intern, I get an Opportunity to work on various Projects and t
 Python programming and data manipulation so it will helping me to extract valuable insights from large datasets and drive informed decision-making. Whether it's cleaning and preprocessing data, performing statistical analysis and creating data visualization.
 I'm working with Restaurant's Data and perform Analysis Level 1 Top Cuisines, City Analysis, Price Range Distribution, Online Delivery, Restaurant Rating, Cuisine Combination. Level 2 Restaurant Reviews, Vote Analysis, Price range vs. Online Delivery and table Booking.
 Technology Used Python, Power BI
-# Level 1: Data Exploration and Analysis
+# Proble Statement
+Level 1: Data Exploration and Analysis
 
-Objective: Gain foundational skills in data exploration, descriptive analysis, and geospatial insights for a restaurant dataset.
-Tasks: Explore data structure, address missing values, perform data conversions, and analyze class imbalances. Calculate statistical measures, investigate distributions of categorical variables, and identify top cuisines and cities.
-Significance: Develop foundational data science skills for the restaurant industry and data-driven decision-making.
+* Objective: Gain foundational skills in data exploration, descriptive analysis, and geospatial insights for a restaurant dataset.
+* Tasks: Explore data structure, address missing values, perform data conversions, and analyze class imbalances. Calculate statistical measures, investigate distributions of categorical variables, and identify top cuisines and cities.
+* Significance: Develop foundational data science skills for the restaurant industry and data-driven decision-making.
 # Level 2: Advanced Analysis
 
-Objective: Enhance insights from the restaurant dataset through tasks focused on table booking, delivery services, pricing, and feature engineering.
-Tasks: Calculate percentages of table booking and online delivery, compare ratings for restaurants with and without booking, and analyze online delivery availability. Determine the most common price range, calculate average ratings for each price range, and associate colors with top-rated ranges. Leverage feature engineering techniques for enhanced data intelligence.
-Significance: Deepen understanding and provide valuable insights into customer preferences, services, pricing, and data enrichment.
+* Objective: Enhance insights from the restaurant dataset through tasks focused on table booking, delivery services, pricing, and feature engineering.
+* Calculate percentages of table booking and online delivery, compare ratings for restaurants with and without booking, and analyze online delivery availability. Determine the most common price range, calculate average ratings for each price range, and associate colors with top-rated ranges. Leverage feature engineering techniques for enhanced data intelligence.
+* Significance: Deepen understanding and provide valuable insights into customer preferences, services, pricing, and data enrichment.
 Level 3: Predictive Modeling and Insights
 
 Objective: Perform predictive modeling, customer preference analysis, and data visualization to extract deeper insights.
