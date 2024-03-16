@@ -40,7 +40,7 @@ Analyzed data visualizations to uncover rating distributions and other insights.
 
 The project covered in-depth data analysis, predictive modeling, and customer preference insights. These findings offer valuable information for data-driven decision-making, customer preferences, and restaurant rating prediction.
 
-#Conclusion
+# Conclusion
 1. Data Overview and Exploration:
 
 The dataset encompasses 9,551 restaurant records with 21 columns.
